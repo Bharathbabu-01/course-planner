@@ -1,0 +1,7 @@
+Title,Body,Labels
+Initialize repository,Set up basic FastAPI skeleton,setup
+Create Course model,Define Pydantic model and DB schema,backend
+List courses endpoint,Implement GET /courses,backend
+React list view,Display courses in list on front-end,frontend
+Docker compose,Add backend+frontend services to docker-compose.yml,devops
+CI pipeline,Add GitHub Actions for tests and build,devops
